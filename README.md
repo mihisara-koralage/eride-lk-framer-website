@@ -25,6 +25,17 @@ ERIDE LK is designed to showcase e-bike information in a simple and visually app
 2. Custom layout and styling
 3. Learning-based design approach
 
+## 📷 Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### E-Bike Models
+![E-Bike Models](screenshots/models.png)
+
+### Bike Details
+![Bike Details](screenshots/details.png)
+
 🎯 Purpose of the Project
 
 This website was created as a learning project to improve:
